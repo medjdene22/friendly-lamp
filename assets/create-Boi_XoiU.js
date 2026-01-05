@@ -1,1 +1,0 @@
-import{j as o}from"./index-iJxv89Ze.js";function n(){return o.jsx("div",{children:'Hello "/$lang/ads/create"!'})}export{n as component};
