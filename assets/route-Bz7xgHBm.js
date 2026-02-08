@@ -1,0 +1,1 @@
+import{j as e,O as s}from"./index-SNKWFbRR.js";function n(){return e.jsx("div",{className:"flex min-h-svh flex-col items-center justify-center gap-6 p-6 md:p-10",children:e.jsx("div",{className:"w-full max-w-sm",children:e.jsx(s,{})})})}export{n as component};
