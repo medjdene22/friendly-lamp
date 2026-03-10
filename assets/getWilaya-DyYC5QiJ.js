@@ -1,1 +1,0 @@
-import{l as e,n as s,a4 as i}from"./index-BL3yxVzW.js";const n=[["path",{d:"m9 18 6-6-6-6",key:"mthhwq"}]],c=e("chevron-right",n),u=({lang:a="fr_FR"})=>s({staleTime:1/0,queryKey:["wilayas",a],queryFn:async()=>{const{data:t}=await i.get("/api/static/wilayas?lang="+a);return t}});export{c as C,u};
