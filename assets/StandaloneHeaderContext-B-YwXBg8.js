@@ -1,0 +1,1 @@
+import{r as t,j as o}from"./index-DuR21Yvu.js";const e=t.createContext({entity:null,setEntity:()=>{}});function u({children:n}){const[r,a]=t.useState(null);return o.jsx(e.Provider,{value:{entity:r,setEntity:a},children:n})}function i(){return t.useContext(e)}export{u as S,i as u};
