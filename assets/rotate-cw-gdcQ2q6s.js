@@ -1,0 +1,1 @@
+import{q as o}from"./index-DfAH_58a.js";const t=[["path",{d:"m5 12 7-7 7 7",key:"hav0vg"}],["path",{d:"M12 19V5",key:"x0mq9r"}]],c=o("arrow-up",t);const a=[["path",{d:"M21 12a9 9 0 1 1-9-9c2.52 0 4.93 1 6.74 2.74L21 8",key:"1p45f6"}],["path",{d:"M21 3v5h-5",key:"1q7to0"}]],r=o("rotate-cw",a);export{c as A,r as R};
