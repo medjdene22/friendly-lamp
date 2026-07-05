@@ -1,0 +1,1 @@
+import{s as e,ae as t}from"./index-kW8uLEgr.js";const u=({lang:a="fr_FR"})=>e({staleTime:1/0,queryKey:["wilayas",a],queryFn:async()=>{const{data:s}=await t.get("/api/static/wilayas?lang="+a);return s}});export{u};
