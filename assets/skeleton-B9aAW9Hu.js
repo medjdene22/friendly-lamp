@@ -1,0 +1,1 @@
+import{j as o}from"./tanstack-vendor-D96yEMoh.js";import{c as s}from"./index-CB8tpFOJ.js";function r({className:t,...e}){return o.jsx("div",{"data-slot":"skeleton",className:s("bg-accent animate-pulse rounded-md",t),...e})}export{r as S};
