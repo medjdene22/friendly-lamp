@@ -1,0 +1,1 @@
+import{V as t}from"./index-UFCvBzHg.js";import{b as e}from"./tanstack-vendor-C_Mx-IEN.js";const n=({lang:a="fr_FR"})=>e({staleTime:1/0,queryKey:["wilayas",a],queryFn:async()=>{const{data:s}=await t.get("/api/static/wilayas?lang="+a);return s}});export{n as u};
